@@ -5,3 +5,12 @@ C:\Users\Alumno\Desktop\Calculadora\Appescritorio\Calculadora_IMC\obj\Debug\net8
 C:\Users\Alumno\Desktop\Calculadora\Appescritorio\Calculadora_IMC\obj\Debug\net8.0-windows\Calculadora_IMC.AssemblyInfoInputs.cache
 C:\Users\Alumno\Desktop\Calculadora\Appescritorio\Calculadora_IMC\obj\Debug\net8.0-windows\Calculadora_IMC.AssemblyInfo.cs
 C:\Users\Alumno\Desktop\Calculadora\Appescritorio\Calculadora_IMC\obj\Debug\net8.0-windows\Calculadora_IMC.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Nueva carpeta\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.Form1.resources
+C:\Users\usuario\Desktop\Nueva carpeta\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.Form2.resources
+C:\Users\usuario\Desktop\Nueva carpeta\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.Properties.Resources.resources
+C:\Users\usuario\Desktop\Nueva carpeta\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Nueva carpeta\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Nueva carpeta\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Nueva carpeta\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Nueva carpeta\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Nueva carpeta\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.sourcelink.json
