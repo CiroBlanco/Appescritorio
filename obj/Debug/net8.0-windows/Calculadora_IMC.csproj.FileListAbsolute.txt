@@ -14,3 +14,22 @@ C:\Users\usuario\Desktop\Nueva carpeta\Appescritorio\obj\Debug\net8.0-windows\Ca
 C:\Users\usuario\Desktop\Nueva carpeta\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.AssemblyInfo.cs
 C:\Users\usuario\Desktop\Nueva carpeta\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Desktop\Nueva carpeta\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.sourcelink.json
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.FrmCalculadora.resources
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.FrmInicio.resources
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.sourcelink.json
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\bin\Debug\net8.0-windows\Calculadora_IMC.exe
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\bin\Debug\net8.0-windows\Calculadora_IMC.deps.json
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\bin\Debug\net8.0-windows\Calculadora_IMC.runtimeconfig.json
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\bin\Debug\net8.0-windows\Calculadora_IMC.dll
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\bin\Debug\net8.0-windows\Calculadora_IMC.pdb
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.dll
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\obj\Debug\net8.0-windows\refint\Calculadora_IMC.dll
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.pdb
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\obj\Debug\net8.0-windows\Calculadora_IMC.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\Appescritorio\Appescritorio\obj\Debug\net8.0-windows\ref\Calculadora_IMC.dll

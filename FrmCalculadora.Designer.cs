@@ -1,6 +1,6 @@
 ﻿namespace Calculadora_IMC
 {
-    partial class Form2
+    partial class FrmCalculadora
     {
         /// <summary>
         /// Required designer variable.
@@ -70,23 +70,24 @@
             // 
             // BtnResultado
             // 
-            BtnResultado.Location = new Point(313, 232);
+            BtnResultado.Location = new Point(313, 229);
             BtnResultado.Name = "BtnResultado";
             BtnResultado.Size = new Size(169, 62);
             BtnResultado.TabIndex = 4;
             BtnResultado.Text = "CALCULAR";
             BtnResultado.UseVisualStyleBackColor = true;
+            BtnResultado.Click += BtnResultado_Click;
             // 
             // LblResultado
             // 
             LblResultado.AutoSize = true;
-            LblResultado.Location = new Point(377, 329);
+            LblResultado.Location = new Point(376, 315);
             LblResultado.Name = "LblResultado";
             LblResultado.Size = new Size(16, 15);
             LblResultado.TabIndex = 5;
             LblResultado.Text = "...";
             // 
-            // Form2
+            // FrmCalculadora
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -98,7 +99,7 @@
             Controls.Add(TxtAltura);
             Controls.Add(LblPeso);
             Controls.Add(LblAltura);
-            Name = "Form2";
+            Name = "FrmCalculadora";
             Text = "Form2";
             TransparencyKey = Color.White;
             ResumeLayout(false);

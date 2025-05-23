@@ -6,10 +6,21 @@ namespace Calculadora_IMC
         {
             InitializeComponent();
         }
+        FrmCalculadora formCalc;
 
+        public FrmCalculadora FormCalc
+        {
+            get
+            {
+                if (formCalc == null)
+                    formCalc = new FrmCalculadora(this);
+
+                return formCalc;
+            }
+        }
         private void btn1_Click(object sender, EventArgs e)
         {
-            FrmCalculadora.Show();
+            FormCalc.Show();
             this.Hide();
         }
     }

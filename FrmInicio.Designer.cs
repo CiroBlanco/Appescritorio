@@ -1,6 +1,6 @@
 ﻿namespace Calculadora_IMC
 {
-    partial class Form1
+    partial class FrmInicio
     {
         /// <summary>
         ///  Required designer variable.
@@ -38,7 +38,7 @@
             // 
             DgvCalculo.BackgroundColor = Color.MistyRose;
             DgvCalculo.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            DgvCalculo.Location = new Point(261, 34);
+            DgvCalculo.Location = new Point(225, 23);
             DgvCalculo.Name = "DgvCalculo";
             DgvCalculo.Size = new Size(240, 150);
             DgvCalculo.TabIndex = 0;
@@ -46,7 +46,7 @@
             // LblNuevo
             // 
             LblNuevo.AutoSize = true;
-            LblNuevo.Location = new Point(334, 216);
+            LblNuevo.Location = new Point(302, 217);
             LblNuevo.Name = "LblNuevo";
             LblNuevo.Size = new Size(85, 15);
             LblNuevo.TabIndex = 1;
@@ -54,24 +54,24 @@
             // 
             // BtnCalcular
             // 
-            BtnCalcular.Location = new Point(319, 250);
+            BtnCalcular.Location = new Point(236, 251);
             BtnCalcular.Name = "BtnCalcular";
-            BtnCalcular.Size = new Size(116, 23);
+            BtnCalcular.Size = new Size(215, 47);
             BtnCalcular.TabIndex = 2;
             BtnCalcular.Text = "CALCULAR";
             BtnCalcular.UseVisualStyleBackColor = true;
             BtnCalcular.Click += btn1_Click;
             // 
-            // Form1
+            // FrmInicio
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(255, 255, 192);
-            ClientSize = new Size(706, 386);
+            ClientSize = new Size(691, 386);
             Controls.Add(BtnCalcular);
             Controls.Add(LblNuevo);
             Controls.Add(DgvCalculo);
-            Name = "Form1";
+            Name = "FrmInicio";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)DgvCalculo).EndInit();
             ResumeLayout(false);

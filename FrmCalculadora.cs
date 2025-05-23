@@ -10,11 +10,19 @@ using System.Windows.Forms;
 
 namespace Calculadora_IMC
 {
-    public partial class Form2: Form
+    public partial class FrmCalculadora : Form
     {
-        public Form2()
+        FrmInicio formInicio;
+        public FrmCalculadora(FrmInicio formOrigen)
         {
             InitializeComponent();
+            formInicio = formOrigen;
+        }
+
+        private void BtnResultado_Click(object sender, EventArgs e)
+        {
+   
+      
         }
     }
 }
