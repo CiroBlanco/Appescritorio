@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             DgvCalculo = new DataGridView();
-            LblNuevo = new Label();
             BtnCalcular = new Button();
             ((System.ComponentModel.ISupportInitialize)DgvCalculo).BeginInit();
             SuspendLayout();
@@ -38,28 +37,21 @@
             // 
             DgvCalculo.BackgroundColor = Color.MistyRose;
             DgvCalculo.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            DgvCalculo.Location = new Point(225, 23);
+            DgvCalculo.Location = new Point(223, 46);
             DgvCalculo.Name = "DgvCalculo";
-            DgvCalculo.Size = new Size(240, 150);
+            DgvCalculo.Size = new Size(252, 184);
             DgvCalculo.TabIndex = 0;
-            // 
-            // LblNuevo
-            // 
-            LblNuevo.AutoSize = true;
-            LblNuevo.Location = new Point(302, 217);
-            LblNuevo.Name = "LblNuevo";
-            LblNuevo.Size = new Size(85, 15);
-            LblNuevo.TabIndex = 1;
-            LblNuevo.Text = "Nuevo Calculo";
             // 
             // BtnCalcular
             // 
-            BtnCalcular.Location = new Point(236, 251);
+            BtnCalcular.BackColor = Color.FromArgb(192, 255, 192);
+            BtnCalcular.Font = new Font("Segoe UI Black", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            BtnCalcular.Location = new Point(239, 276);
             BtnCalcular.Name = "BtnCalcular";
             BtnCalcular.Size = new Size(215, 47);
             BtnCalcular.TabIndex = 2;
-            BtnCalcular.Text = "CALCULAR";
-            BtnCalcular.UseVisualStyleBackColor = true;
+            BtnCalcular.Text = "NUEVO CALCULO";
+            BtnCalcular.UseVisualStyleBackColor = false;
             BtnCalcular.Click += btn1_Click;
             // 
             // FrmInicio
@@ -69,19 +61,16 @@
             BackColor = Color.FromArgb(255, 255, 192);
             ClientSize = new Size(691, 386);
             Controls.Add(BtnCalcular);
-            Controls.Add(LblNuevo);
             Controls.Add(DgvCalculo);
             Name = "FrmInicio";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)DgvCalculo).EndInit();
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
 
         private DataGridView DgvCalculo;
-        private Label LblNuevo;
         private Button BtnCalcular;
     }
 }

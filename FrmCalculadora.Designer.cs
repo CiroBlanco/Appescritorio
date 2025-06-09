@@ -34,36 +34,37 @@
             TxtPeso = new TextBox();
             BtnResultado = new Button();
             LblResultado = new Label();
+            LblTitulo = new Label();
             SuspendLayout();
             // 
             // LblAltura
             // 
             LblAltura.AutoSize = true;
-            LblAltura.Location = new Point(313, 126);
+            LblAltura.Location = new Point(278, 126);
             LblAltura.Name = "LblAltura";
-            LblAltura.Size = new Size(39, 15);
+            LblAltura.Size = new Size(67, 15);
             LblAltura.TabIndex = 0;
-            LblAltura.Text = "Altura";
+            LblAltura.Text = "Altura(mts)";
             // 
             // LblPeso
             // 
             LblPeso.AutoSize = true;
-            LblPeso.Location = new Point(313, 179);
+            LblPeso.Location = new Point(278, 179);
             LblPeso.Name = "LblPeso";
-            LblPeso.Size = new Size(32, 15);
+            LblPeso.Size = new Size(53, 15);
             LblPeso.TabIndex = 1;
-            LblPeso.Text = "Peso";
+            LblPeso.Text = "Peso(kg)";
             // 
             // TxtAltura
             // 
-            TxtAltura.Location = new Point(361, 123);
+            TxtAltura.Location = new Point(362, 126);
             TxtAltura.Name = "TxtAltura";
             TxtAltura.Size = new Size(100, 23);
             TxtAltura.TabIndex = 2;
             // 
             // TxtPeso
             // 
-            TxtPeso.Location = new Point(361, 176);
+            TxtPeso.Location = new Point(362, 171);
             TxtPeso.Name = "TxtPeso";
             TxtPeso.Size = new Size(100, 23);
             TxtPeso.TabIndex = 3;
@@ -87,16 +88,27 @@
             LblResultado.TabIndex = 5;
             LblResultado.Text = "...";
             // 
+            // LblTitulo
+            // 
+            LblTitulo.AutoSize = true;
+            LblTitulo.Font = new Font("Impact", 24F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            LblTitulo.Location = new Point(266, 38);
+            LblTitulo.Name = "LblTitulo";
+            LblTitulo.Size = new Size(267, 39);
+            LblTitulo.TabIndex = 6;
+            LblTitulo.Text = "CALCULADORA IMC";
+            // 
             // FrmCalculadora
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(128, 255, 128);
             ClientSize = new Size(800, 450);
-            Controls.Add(LblResultado);
-            Controls.Add(BtnResultado);
             Controls.Add(TxtPeso);
             Controls.Add(TxtAltura);
+            Controls.Add(LblTitulo);
+            Controls.Add(LblResultado);
+            Controls.Add(BtnResultado);
             Controls.Add(LblPeso);
             Controls.Add(LblAltura);
             Name = "FrmCalculadora";
@@ -114,5 +126,6 @@
         private TextBox TxtPeso;
         private Button BtnResultado;
         private Label LblResultado;
+        private Label LblTitulo;
     }
 }
