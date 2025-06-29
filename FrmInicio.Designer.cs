@@ -37,7 +37,7 @@
             // 
             DgvCalculo.BackgroundColor = Color.MistyRose;
             DgvCalculo.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            DgvCalculo.Location = new Point(223, 46);
+            DgvCalculo.Location = new Point(225, 37);
             DgvCalculo.Name = "DgvCalculo";
             DgvCalculo.Size = new Size(252, 184);
             DgvCalculo.TabIndex = 0;

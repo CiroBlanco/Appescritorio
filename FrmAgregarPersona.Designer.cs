@@ -177,6 +177,7 @@
             Btn_Agregar.TabIndex = 15;
             Btn_Agregar.Text = "Agregar";
             Btn_Agregar.UseVisualStyleBackColor = true;
+            Btn_Agregar.Click += Btn_Agregar_Click;
             // 
             // FrmAgregarPersona
             // 

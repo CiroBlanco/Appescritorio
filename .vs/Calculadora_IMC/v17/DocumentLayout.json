@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|c:\\users\\usuario\\desktop\\appescritorio\\appescritorio\\frmcalculadora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|solutionrelative:frmcalculadora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|c:\\users\\usuario\\desktop\\appescritorio\\appescritorio\\frmagregarpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|solutionrelative:frmagregarpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|c:\\users\\usuario\\desktop\\appescritorio\\appescritorio\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\frmagregarpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|solutionrelative:frmagregarpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|c:\\users\\usuario\\desktop\\appescritorio\\appescritorio\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|solutionrelative:frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -11,16 +27,12 @@
       "RelativeMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|solutionrelative:frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|c:\\users\\usuario\\desktop\\appescritorio\\appescritorio\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|solutionrelative:frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|c:\\users\\usuario\\desktop\\appescritorio\\appescritorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|c:\\users\\usuario\\desktop\\appescritorio\\appescritorio\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|solutionrelative:frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|c:\\users\\usuario\\desktop\\appescritorio\\appescritorio\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254AB560-65F3-4F4A-BC79-9BF804BA5CE4}|Calculadora_IMC.csproj|solutionrelative:frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,37 +45,76 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\Persona.cs",
+              "RelativeDocumentMoniker": "Persona.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\Persona.cs",
+              "RelativeToolTip": "Persona.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:43:12.152Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FrmAgregarPersona.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\FrmAgregarPersona.cs",
+              "RelativeDocumentMoniker": "FrmAgregarPersona.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\FrmAgregarPersona.cs",
+              "RelativeToolTip": "FrmAgregarPersona.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T19:23:10.16Z"
+              "WhenOpened": "2025-06-29T19:48:21.18Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "FrmCalculadora.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\FrmCalculadora.Designer.cs",
+              "RelativeDocumentMoniker": "FrmCalculadora.Designer.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\FrmCalculadora.Designer.cs",
+              "RelativeToolTip": "FrmCalculadora.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:20:26.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAgregarPersona.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\FrmAgregarPersona.cs",
+              "RelativeDocumentMoniker": "FrmAgregarPersona.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\FrmAgregarPersona.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmAgregarPersona.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:11:51.202Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FrmInicio.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\FrmInicio.cs",
               "RelativeDocumentMoniker": "FrmInicio.cs",
               "ToolTip": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\FrmInicio.cs",
               "RelativeToolTip": "FrmInicio.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T16:13:35.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "FrmCalculadora.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\FrmCalculadora.cs",
               "RelativeDocumentMoniker": "FrmCalculadora.cs",
@@ -75,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "FrmInicio.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\FrmInicio.cs",
               "RelativeDocumentMoniker": "FrmInicio.cs",
@@ -87,16 +138,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "FrmCalculadora.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\FrmCalculadora.cs",
               "RelativeDocumentMoniker": "FrmCalculadora.cs",
               "ToolTip": "C:\\Users\\usuario\\Desktop\\AppEscritorio\\Appescritorio\\FrmCalculadora.cs",
               "RelativeToolTip": "FrmCalculadora.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvzEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T19:00:17.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T19:00:17.365Z"
             }
           ]
         }

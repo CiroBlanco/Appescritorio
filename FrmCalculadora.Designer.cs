@@ -30,11 +30,11 @@
         {
             LblAltura = new Label();
             LblPeso = new Label();
-            TxtAltura = new TextBox();
-            TxtPeso = new TextBox();
             BtnResultado = new Button();
             LblResultado = new Label();
             LblTitulo = new Label();
+            TxtAltura = new TextBox();
+            TxtPeso = new TextBox();
             SuspendLayout();
             // 
             // LblAltura
@@ -54,20 +54,6 @@
             LblPeso.Size = new Size(53, 15);
             LblPeso.TabIndex = 1;
             LblPeso.Text = "Peso(kg)";
-            // 
-            // TxtAltura
-            // 
-            TxtAltura.Location = new Point(362, 126);
-            TxtAltura.Name = "TxtAltura";
-            TxtAltura.Size = new Size(100, 23);
-            TxtAltura.TabIndex = 2;
-            // 
-            // TxtPeso
-            // 
-            TxtPeso.Location = new Point(362, 171);
-            TxtPeso.Name = "TxtPeso";
-            TxtPeso.Size = new Size(100, 23);
-            TxtPeso.TabIndex = 3;
             // 
             // BtnResultado
             // 
@@ -98,6 +84,21 @@
             LblTitulo.TabIndex = 6;
             LblTitulo.Text = "CALCULADORA IMC";
             // 
+            // TxtAltura
+            // 
+            TxtAltura.BackColor = Color.White;
+            TxtAltura.Location = new Point(362, 126);
+            TxtAltura.Name = "TxtAltura";
+            TxtAltura.Size = new Size(100, 23);
+            TxtAltura.TabIndex = 7;
+            // 
+            // TxtPeso
+            // 
+            TxtPeso.Location = new Point(362, 171);
+            TxtPeso.Name = "TxtPeso";
+            TxtPeso.Size = new Size(100, 23);
+            TxtPeso.TabIndex = 8;
+            // 
             // FrmCalculadora
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -122,10 +123,10 @@
 
         private Label LblAltura;
         private Label LblPeso;
-        private TextBox TxtAltura;
-        private TextBox TxtPeso;
         private Button BtnResultado;
         private Label LblResultado;
         private Label LblTitulo;
+        private TextBox TxtAltura;
+        private TextBox TxtPeso;
     }
 }

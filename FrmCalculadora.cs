@@ -33,7 +33,7 @@ namespace Calculadora_IMC
                 return;
             }
 
-            string categoria;  
+            string categoria;
 
             if (imc < 18.5)
                 categoria = "Bajo peso";
@@ -44,7 +44,7 @@ namespace Calculadora_IMC
             else
                 categoria = "Obesidad";
 
-            LblResultado.Text = $"IMC: {imc:F2} - {categoria}";
+            LblResultado.Text = $"IMC: {imc} - {categoria}";
         }
     }
 }
